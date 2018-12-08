@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>picture/add.png</file>
+        <file>picture/delete.png</file>
+        <file>picture/erase.png</file>
+        <file>picture/fresh.png</file>
+        <file>picture/home.png</file>
+        <file>picture/import.png</file>
+        <file>picture/save.png</file>
+        <file>app.ico</file>
+        <file>happyfly.gif</file>
+        <file>planes.jpg</file>
+        <file>toy02.png</file>
+        <file>picture/globe.png</file>
+        <file>picture/magnifying_glass.png</file>
+        <file>picture/wifi_finder.png</file>
+        <file>picture/floppy-icon.png</file>
+        <file>picture/history.png</file>
+        <file>picture/line_chart.png</file>
+        <file>picture/notepad-icon.png</file>
+        <file>picture/search-yellow.png</file>
+        <file>picture/Readernaut.png</file>
+        <file>picture/write_document.png</file>
+        <file>picture/settings.png</file>
+        <file>picture/bookmark_missing.png</file>
+    </qresource>
+</RCC>
